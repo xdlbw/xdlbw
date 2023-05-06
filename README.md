@@ -3,7 +3,14 @@
 ![xdlbw](https://img.shields.io/badge/Hello-Sweat%20World-orange)
 ![xdlbw](https://komarev.com/ghpvc/?username=xdlbw)
 
+Welcome to my github! I'm lbw, a third-year student majoring in software engineering at Xidian University.
+
 ### TAGS
+* 🎮 Likes to play video games, favorite games are ***The Legend of Zelda Breath of the Wild*** and ***Red Dead Redemption*** 
+* 🏄 Want to become a ***game developer*** and keep working hard
+* 🎓 Interested in ***computer graphics***
+* 🚬 Good foundation in ***C++/C#***
+* 🙈 A bit of accumulation of ***network security*** knowledge
 <!--
 **xdlbw/xdlbw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -18,9 +25,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### 💾 Open source work stats &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  🔞 Technology stack
+### 💾 Open source work stats &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  🔞 Technology stack
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=xdlbw&show_icons=true&theme=tokyonight)](https://github.com/xdlbw/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xdlbw&theme=tokyonight&layout=compact&hide=RichTextFormat)](https://github.com/xdlbw/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xdlbw&theme=tokyonight&layout=compact)](https://github.com/xdlbw/github-readme-stats)
 
 ### ❤️ Favorite piece     
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xdlbw&repo=JJJJinx&show_icons=true&theme=tokyonight)](https://github.com/xdlbw/github-readme-stats)
