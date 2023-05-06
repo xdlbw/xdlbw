@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 -->
 ### 💾 Open source work stats &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  🔞 Technology stack
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=xdlbw&show_icons=true&theme=tokyonight)](https://github.com/xdlbw/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xdlbw&theme=tokyonight&layout=compact)](https://github.com/xdlbw/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xdlbw&theme=tokyonight)](https://github.com/xdlbw/github-readme-stats)
 
 ### ❤️ Favorite piece     
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xdlbw&repo=JJJJinx&show_icons=true&theme=tokyonight)](https://github.com/xdlbw/github-readme-stats)
