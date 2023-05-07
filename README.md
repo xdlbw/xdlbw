@@ -3,6 +3,7 @@
 
 ![xdlbw](https://img.shields.io/badge/Hello-Sweat%20World-orange)
 ![xdlbw](https://komarev.com/ghpvc/?username=xdlbw)
+[![wakatime](https://wakatime.com/badge/user/4dde1580-2387-442c-9055-983531d6bb93.svg)](https://wakatime.com/@4dde1580-2387-442c-9055-983531d6bb93)
 
 Welcome to my github! I'm lbw 😎, a third-year student majoring in software engineering at Xidian University.
 
@@ -34,6 +35,6 @@ Here are some ideas to get you started:
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xdlbw&repo=JJJJinx&show_icons=true&theme=tokyonight)](https://github.com/xdlbw/github-readme-stats)
 
 ### 🐠 Mess around
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=cute&theme=tokyonight&v=2)](https://github.com/xdlbw/github-readme-stats)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=xdlbw&theme=tokyonight&v=2)](https://github.com/xdlbw/github-readme-stats)
 
 
