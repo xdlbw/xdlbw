@@ -5,7 +5,7 @@
 ![xdlbw](https://komarev.com/ghpvc/?username=xdlbw)
 [![wakatime](https://wakatime.com/badge/user/4dde1580-2387-442c-9055-983531d6bb93.svg)](https://wakatime.com/@4dde1580-2387-442c-9055-983531d6bb93)
 
-Welcome to my github! I'm lbw 😎, a third-year student majoring in software engineering at Xidian University.
+Welcome to my github! I'm lbw 😎, a senior student majoring in software engineering at Xidian University.
 
 ### TAGS
 * 🎮 Likes to play video games, favorite games are ***The Legend of Zelda Breath of the Wild*** and ***Red Dead Redemption*** 
