@@ -5,13 +5,13 @@
 ![xdlbw](https://komarev.com/ghpvc/?username=xdlbw)
 [![wakatime](https://wakatime.com/badge/user/4dde1580-2387-442c-9055-983531d6bb93.svg)](https://wakatime.com/@4dde1580-2387-442c-9055-983531d6bb93)
 
-Welcome to my github! I'm lbw 😎, a senior student majoring in software engineering at Xidian University.
+Welcome to my github! I'm lbw 😎, a PhD student in Computer Science and Technology at Harbin Institute of Technology Shenzhen.
 
 ### TAGS
 * 🎮 Likes to play video games, favorite games are ***The Legend of Zelda Breath of the Wild*** and ***Red Dead Redemption*** 
 * 🏄 Want to become a ***game developer*** and keep working hard
 * 🎓 Interested in ***computer graphics***
-* 🚬 Good foundation in ***C++/C#***
+* 🚬 Good foundation in ***C++/C#*** (maybe)
 * 🙈 A bit of accumulation of ***network security*** knowledge
 <!--
 **xdlbw/xdlbw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
